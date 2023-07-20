@@ -1,0 +1,27 @@
+{
+
+    "contact": "https://discord.gg/r-br",
+
+    "templates": [
+
+      {
+
+        "name": "Brazil",
+
+        "sources": [
+
+          "https://i.imgur.com/sBSw31X.png"
+
+        ],
+
+        "x": 330,
+
+        "y": 130
+
+      }
+
+    ],
+
+    "whitelist": [], "blacklist": []
+
+  }
