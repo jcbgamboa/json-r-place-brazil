@@ -1,0 +1,20 @@
+{
+    "contact": "discord.gg/k4u7ddk",
+    "templates": [
+      {
+        "name": "dimden.dev",
+        "sources": [
+          "https://dimden.dev/images/dimdenplace2023.png?4"
+        ],
+        "x": 469,
+        "y": 913
+      }
+    ],
+    "whitelist": [
+        {
+            "name": "April Knights",
+            "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+        }
+    ],
+    "blacklist": []
+  }
