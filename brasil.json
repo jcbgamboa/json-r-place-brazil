@@ -1,0 +1,20 @@
+{
+    "contact": "discord.gg/k4u7ddk",
+    "templates": [
+      {
+        "name": "dimden.dev",
+        "sources": [
+          "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Sem%20t%C3%ADtulo.png"
+        ],
+        "x": 469,
+        "y": 913
+      }
+    ],
+    "whitelist": [
+        {
+            "name": "April Knights",
+            "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+        }
+    ],
+    "blacklist": []
+  }
