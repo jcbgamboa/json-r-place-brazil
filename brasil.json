@@ -1,0 +1,20 @@
+{
+    "contact": "https://discord.gg/r-br",
+    "templates": [
+      {
+        "name": "BRASIL PORRA!!!",
+        "sources": [
+          "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Sem%20t%C3%ADtulo.png"
+        ],
+        "x": 148,
+        "y": 283
+      }
+    ],
+    "whitelist": [
+        {
+            "name": "April Knights",
+            "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+        }
+    ],
+    "blacklist": []
+  }
