@@ -1,20 +1,15 @@
 {
-    "contact": "https://discord.gg/r-br",
-    "templates": [
-      {
-        "name": "BRASIL PORRA!!!",
-        "sources": [
-          "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/brasil%20tempalte.png"
-        ],
-        "x": 148,
-        "y": 283
-      }
-    ],
-    "whitelist": [
-        {
-            "name": "April Knights",
-            "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
-        }
-    ],
-    "blacklist": []
-  }
+  "contact": "https://discord.gg/r-br",
+  "templates": [
+    {
+      "name": "Brazil",
+      "sources": [
+        "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/brasil%20tempalte.png"
+      ],
+      "x": 148,
+      "y": 283
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
