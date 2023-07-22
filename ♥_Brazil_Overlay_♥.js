@@ -15,7 +15,7 @@
         {
             url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/place1.png", // brazil
             "x": 148,
-            "y": 283,
+            "y": 282,
         },
         {
             url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/cell.png", //cellbit
