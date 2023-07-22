@@ -13,7 +13,7 @@
 (() => {
     const imagens = [
         {
-            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/new%20template.png", // brazil
+            url: "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/place1.png", // brazil
             "x": 148,
             "y": 283,
         },
