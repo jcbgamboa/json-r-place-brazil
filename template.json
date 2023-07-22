@@ -34,7 +34,24 @@
       ],
       "x": 1159,
       "y": 852
+    },
+    {
+      "name": "dbrPedro",
+      "sources": [
+          "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/cbr.png"
+      ],
+      "x": 1176,
+      "y": 758
+    },
+    {
+      "name": "Goulart",
+      "sources": [
+          "https://raw.githubusercontent.com/PakuPacu/json-r-place-brazil/main/Imagens/gou.png"
+      ],
+      "x": 1741,
+      "y": 844
     }
+    
   ],
   "whitelist": [],
   "blacklist": []
