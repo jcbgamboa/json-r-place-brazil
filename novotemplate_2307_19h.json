@@ -1,0 +1,13 @@
+{
+  "templates": [
+    {
+      "name": "Bandeira principal",
+      "sources": [
+        "https://raw.githubusercontent.com/jcbgamboa/json-r-place-brazil/b048c6d3ff65e5d75aaabb86769ef05576461c2f/templateBRplace.png"
+      ],
+      "x": 1148,
+      "y": 782
+    }
+  ],
+  "blacklist": []
+}
